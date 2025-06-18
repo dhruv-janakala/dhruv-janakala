@@ -1,15 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Dhruv Janakala!
 
-**dhruv-janakala/dhruv-janakala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm passionate about web development, machine learning, open-source and I love building projects that make a difference.
 
-Here are some ideas to get you started:
+![GitHub followers](https://img.shields.io/github/followers/dhruv-janakala?label=Follow&style=social) ![Profile views](https://komarev.com/ghpvc/?username=dhruv-janakala&color=blue) ![Top Langs](https://img.shields.io/github/languages/top/dhruv-janakala/dhruv-janakala)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+## 🛠️ Languages & Tools
+
+![Your Skills](https://skillicons.dev/icons?i=html,css,cpp,git,python,md)
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-janakala&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-janakala/) [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/dhruv-janakala/) [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:dhruv.janakala.social@gmail.com)
